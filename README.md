@@ -22,7 +22,7 @@ Principal Input: Takes the user's initial investment amount.
 - Make sure you have Python installed:  Make sure Python 3 is installed on your computer
 - Launch the calculator:  Use your terminal to run the main script
 - Follow Prompts: The software will ask you to input the principal, interest rate, and years of time
-## Instruction for texting
+## Instruction for testing
 Validation testing and calculation testing of the main computation are the main types of testing for this project
 - First.  Testing for Validation (Input Handling)
  Run the script and purposely submit faulty inputs to confirm the loops work as intended:
